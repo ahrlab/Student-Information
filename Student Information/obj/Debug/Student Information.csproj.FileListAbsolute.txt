@@ -1,0 +1,5 @@
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\Student Information\Student Information\bin\Debug\Student Information.exe
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\Student Information\Student Information\bin\Debug\Student Information.pdb
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\Student Information\Student Information\obj\Debug\Student Information.csprojResolveAssemblyReference.cache
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\Student Information\Student Information\obj\Debug\Student Information.exe
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\Student Information\Student Information\obj\Debug\Student Information.pdb
